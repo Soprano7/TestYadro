@@ -1,4 +1,3 @@
-// src/pages/item-edit/index.tsx
 import { useEffect, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import { fetchItemById } from "./../../shared/api/itemsApi";
