@@ -1,4 +1,3 @@
-// src/app/providers/router.tsx
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { ItemListPage } from "../../pages/item-list";
 import { ItemDetailPage } from "../../pages/item-detail";
